@@ -1,0 +1,9 @@
+sudo apt update
+sudo apt install streamlink
+
+# then add files...
+
+sudo systemctl enable nl_kripp
+#sudo systemctl disable nl_kripp
+#sudo systemctl start nl_kripp
+#sudo systemctl stop nl_kripp

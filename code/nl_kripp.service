@@ -1,0 +1,15 @@
+[Unit]
+Description=Twitch.tv TV
+# Before=systemd-user-sessions.service
+
+[Service]
+TimeoutStartSec=0
+ExecStart=bash /home/pi/twitch_tv_tv.sh
+Type=idle
+User=pi
+
+ExecStop=/usr/bin/killall vlc
+User=pi
+
+[Install]
+WantedBy=multi-user.target
