@@ -1,6 +1,6 @@
 # twitch.tv TV
 
-![image of twitch.tv TV](media/twitch.tv.jpg)
+![image of twitch.tv TV](media/20230924_124650~2.jpg)
 
 ## What?
 
