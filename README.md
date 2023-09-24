@@ -2,7 +2,7 @@
 
 ![image of twitch.tv TV](media/twitch.tv.jpg)
 
-## What the fudge?
+## What?
 
 Do you love watching twitch streams, but hate how their website lowers your max FPS while fragging n00bz in UT2k4? Do you wish you had a small purple box that would play your favorite streamer whenever they streamed, even at 3am, immediately at max volume? What a weird wish, you weirdo. Jesus.
 
