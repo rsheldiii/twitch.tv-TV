@@ -4,7 +4,7 @@
 
 ## What?
 
-Do you love watching twitch streams, but hate how their website lowers your max FPS while fragging n00bz in UT2k4? Do you wish you had a small purple box that would play your favorite streamer whenever they streamed, even at 3am, immediately at max volume? What a weird wish, you weirdo. Jesus.
+Do you love watching twitch streams, but hate how their website lowers your max FPS while fragging n00bz in UT2k4? Do you wish you had a small purple box that would play your favorite streamer whenever they streamed, even at 3am, immediately at max volume? Jeez, what a weird wish.
 
 Anyways here's the twitch.tv TV, a twitch.tv TV made to look like twitch.tv that plays twitch.tv on its uh... monitor.
 
@@ -14,9 +14,9 @@ Anyways here's the twitch.tv TV, a twitch.tv TV made to look like twitch.tv that
 ## What You Need
 
 1. 1x [ELECROW Raspberry Pi Monitor 5 Inch Touchscreen IPS Display 800x480 USB Powered HDMI Monitor with Built-in Speaker & Stand for Raspberry Pi Jetson Nano Win PC](https://www.amazon.com/gp/product/B08343QX67/ref=ppx_yo_dt_b_search_asin_title)
-2. 1x Raspberry pi (good luck)
+2. 1x Raspberry pi 3/4 (maybe 2)
 2. 1x [USB power source](https://www.amazon.com/gp/product/B07W8XHMJZ/)
-3. 1x [high-quality 7/8" bunghole gasket (optional)](https://www.amazon.com/gp/product/B07BNCZ1QJ/)
+3. 1x [high-quality 7/8" gasket (optional)](https://www.amazon.com/gp/product/B07BNCZ1QJ/)
 
 ## How it works
 
